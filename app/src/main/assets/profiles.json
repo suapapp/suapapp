@@ -1,0 +1,20 @@
+[  
+   {  
+      "url":"https://www.cyberpowerpc.com/images/cs/smraidmax/blk_400.png",
+      "name":"CyberPowerPC",
+      "price":5000,
+      "location":"Lajeado"
+   },
+   {  
+      "url":"https://t2.uc.ltmcdn.com/pt/images/1/6/7/img_como_limpar_a_maquina_de_lavar_roupa_4761_orig.jpg",
+      "name":"Máquina de Lvar roupas",
+      "price":800,
+      "location":"Arroio do Meio"
+   },
+   {  
+      "url":"https://multimedia.bbycastatic.ca/multimedia/products/1500x1500/103/10317/10317673.jpg",
+      "name":"TV 40\"",
+      "price":3000,
+      "location":"Lajeado"
+   }
+]
