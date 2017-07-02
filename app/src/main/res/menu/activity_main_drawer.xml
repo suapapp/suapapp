@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <group android:checkableBehavior="single">
-        <item
+        <!--<item
             android:id="@+id/nav_camera"
             android:icon="@drawable/ic_menu_camera"
             android:title="Import" />
@@ -16,13 +17,13 @@
             android:id="@+id/nav_slideshow"
             android:enabled="true"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
+            android:title="Slideshow" /> -->
         <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
+            android:id="@+id/nav_logout"
+            android:icon="@android:drawable/btn_dialog"
+            android:title="Logout" />
     </group>
-
+<!--
     <item android:title="Communicate">
         <menu>
             <item
@@ -35,5 +36,5 @@
                 android:title="Send" />
         </menu>
     </item>
-
+-->
 </menu>
